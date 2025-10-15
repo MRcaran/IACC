@@ -1,4 +1,4 @@
-Nome: Vitor de Souza Novaski
+Nome: Vitor de Souza Novaski < bovino 
 Idade: 19
 Cidade: Capão da Canoa
 Meu time: Grêmio
